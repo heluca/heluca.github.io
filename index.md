@@ -13,7 +13,7 @@ Welcome to the Heluca Technical Blog! This blog is dedicated to sharing insights
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
-      {{ post.tag }}
+      Tags: {{ post.tag }}
     </li>
   {% endfor %}
 </ul>
