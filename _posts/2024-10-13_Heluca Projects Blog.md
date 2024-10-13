@@ -6,7 +6,7 @@ author: Robert Helewka
 
 # Welcome to the Heluca Technical Blog
 
-Welcome to the Heluca Technical Blog! This blog is dedicated to sharing insights, tutorials, and updates my from my IoT projects that include software development, 3D printing, machine learning, and Linux.
+Welcome to the Heluca Technical Blog! This blog is dedicated to sharing insights, tutorials, and updates my from my projects that include software development, 3D printing, machine learning, IoT, open collaboration platforms, and Linux.
 
 ## About Heluca
 
