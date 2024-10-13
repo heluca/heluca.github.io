@@ -2,6 +2,7 @@
 title: Welcome to the Heluca Projects Blog
 date: 2023-10-13
 author: Robert Helewka
+tag: general
 ---
 
 # Welcome to the Heluca Technical Blog
