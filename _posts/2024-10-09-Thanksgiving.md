@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Heluca Projects Blog
+title: Thanksgiving
 date: 2023-10-09
 author: Robert Helewka
 ---
