@@ -29,8 +29,10 @@
     </div>
 
     <footer>
-      <a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
-      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
+      <div class="container">
+        <a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}</p>
+      </div>
     </footer>
   </body>
 </html>
